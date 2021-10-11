@@ -1,4 +1,4 @@
-pragma solidity ^0.4.23;
+pragma solidity ^0.8.3;
 
 import "./TRC20Mintable.sol";
 
